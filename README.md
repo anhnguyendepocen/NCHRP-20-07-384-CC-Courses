@@ -4,7 +4,7 @@
 Introduction
 ------------
 
-Many awesome university course webpages are scattered across the internet. We try here to light some of those Transportation Safety courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
+Many open source university course webpages are scattered across the internet. We try here to light some of those Transportation Safety courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
 
 Table of Contents
 -----------------
