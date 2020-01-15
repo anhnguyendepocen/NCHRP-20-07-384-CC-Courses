@@ -1,10 +1,10 @@
-# Awesome Transportation Safety Courses 
+# NCHRP 20(07)-384 Core Competency (CC) Courses 
 
 
 Introduction
 ------------
 
-Many awesome university course webpages are scattered across the internet. We try here to light some of those awesome Transportation Safety courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
+Many awesome university course webpages are scattered across the internet. We try here to light some of those Transportation Safety courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
 
 Table of Contents
 -----------------
